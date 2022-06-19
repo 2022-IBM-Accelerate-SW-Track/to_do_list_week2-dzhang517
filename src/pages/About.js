@@ -18,10 +18,12 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Daniel Zhang</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Hi! My name is Daniel Zhang. I grew up in Charlotte, NC and attend school 
+              at Williams College in Massachusetts. I plan to major in Computer Science
+              and look forward to learning more about various aspects of tech throughout
+              this program!
             </div>
           </div>
         </div>
